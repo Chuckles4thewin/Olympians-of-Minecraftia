@@ -1,0 +1,10 @@
+package com.chuckles4thewin.Main;
+
+import com.chuckles4thewin.lib.ReferenceStrings;
+
+@Mod(modid = ReferenceStrings.MODID , name = ReferenceStrings.NAME , version = ReferenceStrings.VERSION)
+
+public class MainRegistry 
+{
+
+}

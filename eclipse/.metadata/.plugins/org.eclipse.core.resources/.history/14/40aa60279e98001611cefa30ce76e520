@@ -1,0 +1,20 @@
+package com.chuckles4thewin.item;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class OlympiansofMinecraftiaTab extends CreativeTabs
+{
+
+	public OlympiansofMinecraftiaTab(String label) {
+		super(label);
+	
+	}
+
+	@Override
+	public Item getTabIconItem() {
+
+		return EnderDragonGem.enderGem;
+	}
+
+}

@@ -1,0 +1,990 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "865d67c8438f838124b33135c5051131ef1b0fed",
+    "jarFileModificationDate": "2016-10-22T12:52:10.347-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f881e3b34693a96cd3d9e20d6aeabae98757359",
+    "jarFileModificationDate": "2016-10-22T12:52:09.579-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.sf.jopt-simple.jopt-simple",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6065cc95c661255349c1d0756657be17c29a4fd3",
+    "jarFileModificationDate": "2016-10-22T13:15:00.139-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.sf.jopt-simple\\jopt-simple\\4.5\\6065cc95c661255349c1d0756657be17c29a4fd3\\jopt-simple-4.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.1-natives-linux",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aa9aae879af8eb378e22cfc64db56ec2ca9a44d1",
+    "jarFileModificationDate": "2016-10-22T13:15:06.252-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.1\\aa9aae879af8eb378e22cfc64db56ec2ca9a44d1\\lwjgl-platform-2.9.1-natives-linux.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.libraryjavasound",
+    "version": {
+      "major": 20101123,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+    "jarFileModificationDate": "2016-10-22T13:15:01.806-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\libraryjavasound\\20101123\\5c5e304366f75f9eaa2e8cca546a1fb6109348b3\\libraryjavasound-20101123.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "twitch-platform-5.16-natives-windows-64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39d0c3d363735b4785598e0e7fbf8297c706a9f9",
+    "jarFileModificationDate": "2016-10-22T13:05:12.719-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-platform\\5.16\\39d0c3d363735b4785598e0e7fbf8297c706a9f9\\twitch-platform-5.16-natives-windows-64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.1-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac",
+    "jarFileModificationDate": "2016-10-22T13:15:06.436-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.1\\2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac\\lwjgl-platform-2.9.1-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objectweb.asm.all.debug",
+    "version": {
+      "major": 5,
+      "minor": 0,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f9e364ae2a66ce2a543012a4668856e84e5dab74",
+    "jarFileModificationDate": "2016-10-22T13:04:30.612-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.ow2.asm\\asm-debug-all\\5.0.3\\f9e364ae2a66ce2a543012a4668856e84e5dab74\\asm-debug-all-5.0.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j-api",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "beta9"
+    },
+    "jarFileFingerprint": "1dd66e68cccd907880229f9e2de1314bd13ff785",
+    "jarFileModificationDate": "2016-10-22T13:15:03.384-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-api\\2.0-beta9\\1dd66e68cccd907880229f9e2de1314bd13ff785\\log4j-api-2.0-beta9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "launchwrapper-1.12",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "111e7bea9c968cdb3d06ef4632bf7ff0824d0f36",
+    "jarFileModificationDate": "2016-10-22T13:14:48.132-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.minecraft\\launchwrapper\\1.12\\111e7bea9c968cdb3d06ef4632bf7ff0824d0f36\\launchwrapper-1.12.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "realms-1.3.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0807ae355ee63583becd7ea60e76aab1532bb42e",
+    "jarFileModificationDate": "2016-10-22T13:15:00.401-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.mojang\\realms\\1.3.5\\807ae355ee63583becd7ea60e76aab1532bb42e\\realms-1.3.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.librarylwjglopenal",
+    "version": {
+      "major": 20100824,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "73e80d0794c39665aec3f62eee88ca91676674ef",
+    "jarFileModificationDate": "2016-10-22T13:15:01.993-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\librarylwjglopenal\\20100824\\73e80d0794c39665aec3f62eee88ca91676674ef\\librarylwjglopenal-20100824.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "vecmath-1.3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d",
+    "jarFileModificationDate": "2016-10-22T13:15:00.631-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\java3d\\vecmath\\1.3.1\\a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d\\vecmath-1.3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e5de658dacff5168bfdfcf0771426b38034ff94d",
+    "jarFileModificationDate": "2016-10-22T12:52:13.997-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.java.jutils.jutils",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+    "jarFileModificationDate": "2016-10-22T13:15:03.204-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jutils\\jutils\\1.0.0\\e12fe1fda814bd348c1579329c86943d2cd3c6a6\\jutils-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl_util-2.9.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e",
+    "jarFileModificationDate": "2016-10-22T13:15:03.811-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl_util\\2.9.1\\290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e\\lwjgl_util-2.9.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5bb09140a08ac3704e658bf2bdf84b1585742100",
+    "jarFileModificationDate": "2016-10-22T12:52:14.063-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2016-10-22T13:15:02.957-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\commons-io\\commons-io\\2.4\\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.plugins.scala-continuations-plugin",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f361a3283452c57fa30c1ee69448995de23c60f7",
+    "jarFileModificationDate": "2016-10-22T13:14:54.587-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang.plugins\\scala-continuations-plugin_2.11.1\\1.0.2\\f361a3283452c57fa30c1ee69448995de23c60f7\\scala-continuations-plugin_2.11.1-1.0.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.modules.scala-swing",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1cdd92bd47b1e1837139c1c53020e86bb9112ae",
+    "jarFileModificationDate": "2016-10-22T13:14:58.837-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-swing_2.11\\1.0.1\\b1cdd92bd47b1e1837139c1c53020e86bb9112ae\\scala-swing_2.11-1.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "twitch-platform-5.16-natives-windows-32",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7c6affe439099806a4f552da14c42f9d643d8b23",
+    "jarFileModificationDate": "2016-10-22T13:15:04.553-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-platform\\5.16\\7c6affe439099806a4f552da14c42f9d643d8b23\\twitch-platform-5.16-natives-windows-32.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f7f2ac1432e92cd4bdb7736b109d6de305b07249",
+    "jarFileModificationDate": "2016-10-22T12:52:09.346-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.1-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4c517eca808522457dd95ee8fc1fbcdbb602efbe",
+    "jarFileModificationDate": "2016-10-22T13:05:12.240-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.1\\4c517eca808522457dd95ee8fc1fbcdbb602efbe\\lwjgl-platform-2.9.1-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.typesafe.akka.actor",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed62e9fc709ca0f2ff1a3220daa8b70a2870078e",
+    "jarFileModificationDate": "2016-10-22T13:14:50.928-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.typesafe.akka\\akka-actor_2.11\\2.3.3\\ed62e9fc709ca0f2ff1a3220daa8b70a2870078e\\akka-actor_2.11-2.3.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.codecwav",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+    "jarFileModificationDate": "2016-10-22T13:15:01.679-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\codecwav\\20101023\\12f031cfe88fef5c1dd36c563c0a3a69bd7261da\\codecwav-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "twitch-external-platform-4.5-natives-windows-32",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "18215140f010c05b9f86ef6f0f8871954d2ccebf",
+    "jarFileModificationDate": "2016-10-22T13:15:06.045-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-external-platform\\4.5\\18215140f010c05b9f86ef6f0f8871954d2ccebf\\twitch-external-platform-4.5-natives-windows-32.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "237c1aa299fca6cdee72b4a4429a8fc434364d5c",
+    "jarFileModificationDate": "2016-10-22T12:52:10.063-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.paulscode.soundsystem",
+    "version": {
+      "major": 20120107,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+    "jarFileModificationDate": "2016-10-22T13:15:02.087-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\soundsystem\\20120107\\419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6\\soundsystem-20120107.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "trove4j-3.0.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
+    "jarFileModificationDate": "2016-10-22T13:15:01.098-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.sf.trove4j\\trove4j\\3.0.3\\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\\trove4j-3.0.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f",
+    "jarFileModificationDate": "2016-10-22T13:04:49.277-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\commons-logging\\commons-logging\\1.1.3\\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\\commons-logging-1.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "io.netty.netty-all",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 10,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "9e50bd52ffe257a0e2cd8d971688d6ce7d174325",
+    "jarFileModificationDate": "2016-10-22T13:15:02.335-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-all\\4.0.10.Final\\9e50bd52ffe257a0e2cd8d971688d6ce7d174325\\netty-all-4.0.10.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6a88353174661d30957e1bb0424a628e9145799a",
+    "jarFileModificationDate": "2016-10-22T12:52:08.690-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.scala-lang.modules.scala-parser-combinators",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0",
+    "jarFileModificationDate": "2016-10-22T13:14:56.503-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-parser-combinators_2.11\\1.0.1\\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\\scala-parser-combinators_2.11-1.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "authlib-1.5.16",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ef1582b11fd0943d069cdcb72e99008ac209a283",
+    "jarFileModificationDate": "2016-10-22T13:15:03.313-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.mojang\\authlib\\1.5.16\\ef1582b11fd0943d069cdcb72e99008ac209a283\\authlib-1.5.16.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "twitch-external-platform-4.5-natives-windows-64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c3cde57891b935d41b6680a9c5e1502eeab76d86",
+    "jarFileModificationDate": "2016-10-22T13:05:13.934-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-external-platform\\4.5\\c3cde57891b935d41b6680a9c5e1502eeab76d86\\twitch-external-platform-4.5-natives-windows-64.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "840c55897530525f3120c859ee537610de7386b8",
+    "jarFileModificationDate": "2016-10-22T12:52:09.248-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c1df22db1d8f65dfa9931676b2386f8220f7d891",
+    "jarFileModificationDate": "2016-10-22T12:52:09.395-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e08fa3aa888baade3958142771854d5d9e2c1b73",
+    "jarFileModificationDate": "2016-10-22T12:52:09.582-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 3,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "18f4247ff4572a074444572cee34647c43e7c9c7",
+    "jarFileModificationDate": "2016-10-22T13:04:32.200-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.httpcomponents\\httpclient\\4.3.3\\18f4247ff4572a074444572cee34647c43e7c9c7\\httpclient-4.3.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.modules.scala-parser-combinators",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0",
+    "jarFileModificationDate": "2016-10-22T13:15:04.359-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang.modules\\scala-parser-combinators_2.11\\1.0.1\\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\\scala-parser-combinators_2.11-1.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "54182c904a48364fc572e3a2631df14823c29cef",
+    "jarFileModificationDate": "2016-10-22T12:52:09.494-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "twitch-5.16",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1f55f009c61637c10c0acfb8b5ffc600f30044b4",
+    "jarFileModificationDate": "2016-10-22T13:15:03.898-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch\\5.16\\1f55f009c61637c10c0acfb8b5ffc600f30044b4\\twitch-5.16.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "76ba0e08c6b3df9fb1551f00189323dac8fc818c",
+    "jarFileModificationDate": "2016-10-22T12:52:09.559-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9ce04e34240f674bc72680f8b843b1457383161a",
+    "jarFileModificationDate": "2016-10-22T13:15:03.074-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\commons-codec\\commons-codec\\1.9\\9ce04e34240f674bc72680f8b843b1457383161a\\commons-codec-1.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "efb0602c313655790459938c5afddf34a875c172",
+    "jarFileModificationDate": "2016-10-22T12:52:09.158-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60a5e993c98c864010053cb901b7eab25306568",
+    "jarFileModificationDate": "2016-10-22T13:04:32.559-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.gson\\gson\\2.2.4\\a60a5e993c98c864010053cb901b7eab25306568\\gson-2.2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d958adac5f1edefa22045a1409ccdeff154779c1",
+    "jarFileModificationDate": "2016-10-22T12:52:10.012-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-2.0.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
+    "jarFileModificationDate": "2016-10-22T13:15:03.143-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput\\2.0.5\\39c7796b469a600f72380316f6b1f11db6c2c7c4\\jinput-2.0.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-compiler",
+    "version": {
+      "major": 2,
+      "minor": 11,
+      "micro": 1,
+      "qualifier": "v20140519-130118-1e1defd99c"
+    },
+    "jarFileFingerprint": "56ea2e6c025e0821f28d73ca271218b8dd04926a",
+    "jarFileModificationDate": "2016-10-22T13:14:54.228-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-compiler\\2.11.1\\56ea2e6c025e0821f28d73ca271218b8dd04926a\\scala-compiler-2.11.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.ibm.icu.core",
+    "version": {
+      "major": 51,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63d216a9311cca6be337c1e458e587f99d382b84",
+    "jarFileModificationDate": "2016-10-22T13:15:01.463-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.ibm.icu\\icu4j-core-mojang\\51.2\\63d216a9311cca6be337c1e458e587f99d382b84\\icu4j-core-mojang-51.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f064d5dc1dd45e775938a7edbcd4f1bd50bfc0c5",
+    "jarFileModificationDate": "2016-10-22T12:52:09.422-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "90a3822c38ec8c996e84c16a3477ef632cbc87a3",
+    "jarFileModificationDate": "2016-10-22T13:15:02.875-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-lang3\\3.3.2\\90a3822c38ec8c996e84c16a3477ef632cbc87a3\\commons-lang3-3.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-2.9.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f58c5aabcef0e41718a564be9f8e412fff8db847",
+    "jarFileModificationDate": "2016-10-22T13:15:03.731-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl\\2.9.1\\f58c5aabcef0e41718a564be9f8e412fff8db847\\lwjgl-2.9.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bda4b15a3efa590b459f76c48b9a9c6237016c03",
+    "jarFileModificationDate": "2016-10-22T12:52:09.490-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "forgeSrc-1.7.10-10.13.4.1558-1.7.10",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "17f8310940ffe8d1e54e0ed23d5b7fd84fddad07",
+    "jarFileModificationDate": "2016-10-22T13:18:47.126-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\minecraft\\net\\minecraftforge\\forge\\1.7.10-10.13.4.1558-1.7.10\\forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "53f9c919f34d2ca9de8c51fc4e1e8282029a9232",
+    "jarFileModificationDate": "2016-10-22T13:15:04.447-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput-platform\\2.0.5\\53f9c919f34d2ca9de8c51fc4e1e8282029a9232\\jinput-platform-2.0.5-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 17,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9c6ef172e8de35fd8d4d8783e4821e57cdef7445",
+    "jarFileModificationDate": "2016-10-22T13:15:02.710-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\guava\\17.0\\9c6ef172e8de35fd8d4d8783e4821e57cdef7445\\guava-17.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d8f025bfc80957f2d8d08dda2f990368230837a",
+    "jarFileModificationDate": "2016-10-22T12:52:14.149-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jsr305-1.3.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf",
+    "jarFileModificationDate": "2016-10-22T13:14:48.514-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.findbugs\\jsr305\\1.3.9\\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\\jsr305-1.3.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.compress",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a698750c16740fd5b3871425f4cb3bbaa87f529d",
+    "jarFileModificationDate": "2016-10-22T13:15:00.496-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-compress\\1.8.1\\a698750c16740fd5b3871425f4cb3bbaa87f529d\\commons-compress-1.8.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "scala-actors-migration_2.11-1.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f",
+    "jarFileModificationDate": "2016-10-22T13:14:51.471-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-actors-migration_2.11\\1.1.0\\dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f\\scala-actors-migration_2.11-1.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.codecjorbis",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c73b5636faf089d9f00e8732a829577de25237ee",
+    "jarFileModificationDate": "2016-10-22T13:15:01.551-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\codecjorbis\\20101023\\c73b5636faf089d9f00e8732a829577de25237ee\\codecjorbis-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-library",
+    "version": {
+      "major": 2,
+      "minor": 11,
+      "micro": 1,
+      "qualifier": "v20140519-130118-1e1defd99c"
+    },
+    "jarFileFingerprint": "0e11da23da3eabab9f4777b9220e60d44c1aab6a",
+    "jarFileModificationDate": "2016-10-22T13:14:55.472-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-library\\2.11.1\\e11da23da3eabab9f4777b9220e60d44c1aab6a\\scala-library-2.11.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "31fbbff1ddbf98f3aa7377c94d33b0447c646b6e",
+    "jarFileModificationDate": "2016-10-22T13:04:49.146-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.httpcomponents\\httpcore\\4.3.2\\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\\httpcore-4.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "74046b53e36bf6fbfc837cf5c9d95eaef5369112",
+    "jarFileModificationDate": "2016-10-22T12:52:13.944-05:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_111\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "twitch-platform-5.16-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "62503ee712766cf77f97252e5902786fd834b8c5",
+    "jarFileModificationDate": "2016-10-22T13:15:04.850-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-platform\\5.16\\62503ee712766cf77f97252e5902786fd834b8c5\\twitch-platform-5.16-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.typesafe.config",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f771f71fdae3df231bcd54d5ca2d57f0bf93f467",
+    "jarFileModificationDate": "2016-10-22T13:14:51.420-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\com.typesafe\\config\\1.2.1\\f771f71fdae3df231bcd54d5ca2d57f0bf93f467\\config-1.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.modules.scala-xml",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0",
+    "jarFileModificationDate": "2016-10-22T13:14:59.998-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-xml_2.11\\1.0.2\\7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0\\scala-xml_2.11-1.0.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j-core",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "beta9"
+    },
+    "jarFileFingerprint": "678861ba1b2e1fccb594bb0ca03114bb05da9695",
+    "jarFileModificationDate": "2016-10-22T13:15:03.534-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-core\\2.0-beta9\\678861ba1b2e1fccb594bb0ca03114bb05da9695\\log4j-core-2.0-beta9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lzma-0.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "521616dc7487b42bef0e803bd2fa3faf668101d7",
+    "jarFileModificationDate": "2016-10-22T13:15:00.195-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\lzma\\lzma\\0.0.1\\521616dc7487b42bef0e803bd2fa3faf668101d7\\lzma-0.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-reflect",
+    "version": {
+      "major": 2,
+      "minor": 11,
+      "micro": 1,
+      "qualifier": "v20140519-130118-1e1defd99c"
+    },
+    "jarFileFingerprint": "6580347e61cc7f8e802941e7fde40fa83b8badeb",
+    "jarFileModificationDate": "2016-10-22T13:14:57.309-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-reflect\\2.11.1\\6580347e61cc7f8e802941e7fde40fa83b8badeb\\scala-reflect-2.11.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.plugins.scala-continuations-library",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0e517c53a7e9acd6b1668c5a35eccbaa3bab9aac",
+    "jarFileModificationDate": "2016-10-22T13:14:54.416-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang.plugins\\scala-continuations-library_2.11\\1.0.2\\e517c53a7e9acd6b1668c5a35eccbaa3bab9aac\\scala-continuations-library_2.11-1.0.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
+    "jarFileModificationDate": "2016-10-22T13:05:12.559-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput-platform\\2.0.5\\385ee093e01f587f30ee1c8a2ee7d408fd732e16\\jinput-platform-2.0.5-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.modules.scala-xml",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "820fbca7e524b530fdadc594c39d49a21ea0337e",
+    "jarFileModificationDate": "2016-10-22T13:15:04.279-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang.modules\\scala-xml_2.11\\1.0.2\\820fbca7e524b530fdadc594c39d49a21ea0337e\\scala-xml_2.11-1.0.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-actors",
+    "version": {
+      "major": 2,
+      "minor": 11,
+      "micro": 0,
+      "qualifier": "v20140415-163722-cac6383e66"
+    },
+    "jarFileFingerprint": "8ccfb6541de179bb1c4d45cf414acee069b7f78b",
+    "jarFileModificationDate": "2016-10-22T13:15:04.115-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-actors\\2.11.0\\8ccfb6541de179bb1c4d45cf414acee069b7f78b\\scala-actors-2.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-linux",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7ff832a6eb9ab6a767f1ade2b548092d0fa64795",
+    "jarFileModificationDate": "2016-10-22T13:15:04.402-05:00",
+    "location": "C:\\Users\\chrlc\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput-platform\\2.0.5\\7ff832a6eb9ab6a767f1ade2b548092d0fa64795\\jinput-platform-2.0.5-natives-linux.jar",
+    "javaRuntime": false
+  }
+]
